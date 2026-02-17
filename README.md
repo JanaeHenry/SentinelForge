@@ -1,5 +1,4 @@
 # SentinelForge
-# SentinelForge
 
 SentinelForge is a Python-based security automation lab focused on control validation, log analysis, and structured incident workflows.
 
