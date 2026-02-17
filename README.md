@@ -1,11 +1,10 @@
 # SentinelForge
-Python-based security automation lab focused on control validation, log analysis, and AI-assisted workflows.
-Cybersecurity professional focused on Python-based security automation.
+Cybersecurity professional strengthening Python-based security automation capabilities.
 
-Currently building SentinelForge — a structured lab exploring control validation, log analysis, and AI-assisted incident workflows.
+Building SentinelForge, a security automation lab focused on control validation, log analysis, and structured incident workflows.
 
-Core Focus:
-• Python
-• Security controls & governance
-• Automation engineering
-• AI applications in cybersecurity
+Core Focus
+• Python automation
+• Security governance and controls
+• Detection and workflow engineering
+• Applied AI in cybersecurity
